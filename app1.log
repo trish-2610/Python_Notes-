@@ -1,0 +1,4 @@
+DEBUG:Arithmetic_op:addition of 10 and 20 = 30
+DEBUG:Arithmetic_op:subtraction of 67 and 45 = 22
+DEBUG:Arithmetic_op:multiplication of 3 and 4 = 12
+DEBUG:Arithmetic_op:addition od 20 and 2 = 10.0
